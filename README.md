@@ -4,4 +4,4 @@
 - raw data, not cleaned
 - English start from beginning to line 99171 continue Vietnamese to end file
 - Vim using fzf complete word? copy the raw data to `/usr/share/dict/words`
-- data source? -> some where in the internet
+- dataset source? -> some where in the internet
